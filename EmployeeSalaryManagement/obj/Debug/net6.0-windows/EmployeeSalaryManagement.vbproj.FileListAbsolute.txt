@@ -1,0 +1,16 @@
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\bin\Debug\net6.0-windows\EmployeeSalaryManagement.exe
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\bin\Debug\net6.0-windows\EmployeeSalaryManagement.deps.json
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\bin\Debug\net6.0-windows\EmployeeSalaryManagement.runtimeconfig.json
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\bin\Debug\net6.0-windows\EmployeeSalaryManagement.dll
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\bin\Debug\net6.0-windows\EmployeeSalaryManagement.pdb
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.Form1.resources
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.vbproj.GenerateResource.cache
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.GeneratedMSBuildEditorConfig.editorconfig
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.AssemblyInfoInputs.cache
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.AssemblyInfo.vb
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.vbproj.CoreCompileInputs.cache
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.dll
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\refint\EmployeeSalaryManagement.dll
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.pdb
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.genruntimeconfig.cache
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\ref\EmployeeSalaryManagement.dll

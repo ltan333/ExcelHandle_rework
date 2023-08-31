@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "593VQB3/8ddVCeUIK9pM6edfDkUjb04ouufcNv4fc+QgP+OaDwHq37zCxuawu9vIRuv3rySR3pMSF0wjopP5PQ==",
+  "success": true,
+  "projectFilePath": "E:\\Data\\Csharp_VS\\EmployeeSalaryManagement\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\truon\\.nuget\\packages\\fontawesome.sharp\\6.3.0\\fontawesome.sharp.6.3.0.nupkg.sha512"
+  ],
+  "logs": []
+}
