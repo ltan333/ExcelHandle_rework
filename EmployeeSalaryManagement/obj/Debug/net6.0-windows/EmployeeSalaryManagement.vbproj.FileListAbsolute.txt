@@ -14,3 +14,6 @@ E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\ne
 E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.pdb
 E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.genruntimeconfig.cache
 E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\ref\EmployeeSalaryManagement.dll
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\bin\Debug\net6.0-windows\FontAwesome.Sharp.dll
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.vbproj.AssemblyReference.cache
+E:\Data\Csharp_VS\EmployeeSalaryManagement\EmployeeSalaryManagement\obj\Debug\net6.0-windows\EmployeeSalaryManagement.vbproj.CopyComplete
