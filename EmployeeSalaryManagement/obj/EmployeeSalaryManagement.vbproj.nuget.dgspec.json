@@ -1,20 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "E:\\Data\\Csharp_VS\\EmployeeSalaryManagement\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj": {}
+    "C:\\Users\\LAPTOP\\Desktop\\ExcelHandle_rework\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj": {}
   },
   "projects": {
-    "E:\\Data\\Csharp_VS\\EmployeeSalaryManagement\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj": {
+    "C:\\Users\\LAPTOP\\Desktop\\ExcelHandle_rework\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "E:\\Data\\Csharp_VS\\EmployeeSalaryManagement\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj",
+        "projectUniqueName": "C:\\Users\\LAPTOP\\Desktop\\ExcelHandle_rework\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj",
         "projectName": "EmployeeSalaryManagement",
-        "projectPath": "E:\\Data\\Csharp_VS\\EmployeeSalaryManagement\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj",
-        "packagesPath": "C:\\Users\\truon\\.nuget\\packages\\",
-        "outputPath": "E:\\Data\\Csharp_VS\\EmployeeSalaryManagement\\EmployeeSalaryManagement\\obj\\",
+        "projectPath": "C:\\Users\\LAPTOP\\Desktop\\ExcelHandle_rework\\EmployeeSalaryManagement\\EmployeeSalaryManagement.vbproj",
+        "packagesPath": "C:\\Users\\LAPTOP\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\LAPTOP\\Desktop\\ExcelHandle_rework\\EmployeeSalaryManagement\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\truon\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\LAPTOP\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -64,7 +64,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.400\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
         }
       }
     }
