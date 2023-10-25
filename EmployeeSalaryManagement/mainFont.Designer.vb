@@ -34,16 +34,20 @@ Partial Class mainFont
         Label1 = New Label()
         PageSetupDialog1 = New PageSetupDialog()
         Panel1 = New Panel()
+        lblTitle = New Label()
+        IconCurrentForm = New FontAwesome.Sharp.IconPictureBox()
         panelDesktop = New Panel()
         panelMenu.SuspendLayout()
         CType(IconPictureBox2, ComponentModel.ISupportInitialize).BeginInit()
         panelLogo.SuspendLayout()
         CType(IconPictureBox1, ComponentModel.ISupportInitialize).BeginInit()
+        Panel1.SuspendLayout()
+        CType(IconCurrentForm, ComponentModel.ISupportInitialize).BeginInit()
         SuspendLayout()
         ' 
         ' panelMenu
         ' 
-        panelMenu.BackColor = Color.FromArgb(CByte(128), CByte(128), CByte(255))
+        panelMenu.BackColor = Color.FromArgb(CByte(31), CByte(30), CByte(68))
         panelMenu.Controls.Add(Label2)
         panelMenu.Controls.Add(IconPictureBox2)
         panelMenu.Controls.Add(IconButton1)
@@ -69,7 +73,7 @@ Partial Class mainFont
         Label2.Text = "Root Directory"' 
         ' IconPictureBox2
         ' 
-        IconPictureBox2.BackColor = Color.FromArgb(CByte(128), CByte(128), CByte(255))
+        IconPictureBox2.BackColor = Color.FromArgb(CByte(31), CByte(30), CByte(68))
         IconPictureBox2.ForeColor = SystemColors.GradientInactiveCaption
         IconPictureBox2.IconChar = FontAwesome.Sharp.IconChar.FolderBlank
         IconPictureBox2.IconColor = SystemColors.GradientInactiveCaption
@@ -155,7 +159,7 @@ Partial Class mainFont
         ' 
         ' panelLogo
         ' 
-        panelLogo.BackColor = Color.FromArgb(CByte(128), CByte(128), CByte(255))
+        panelLogo.BackColor = Color.FromArgb(CByte(31), CByte(30), CByte(68))
         panelLogo.Controls.Add(IconPictureBox1)
         panelLogo.Controls.Add(Label1)
         panelLogo.Dock = DockStyle.Top
@@ -168,7 +172,7 @@ Partial Class mainFont
         ' 
         ' IconPictureBox1
         ' 
-        IconPictureBox1.BackColor = Color.FromArgb(CByte(128), CByte(128), CByte(255))
+        IconPictureBox1.BackColor = Color.FromArgb(CByte(31), CByte(30), CByte(68))
         IconPictureBox1.ForeColor = SystemColors.GradientInactiveCaption
         IconPictureBox1.IconChar = FontAwesome.Sharp.IconChar.CalendarWeek
         IconPictureBox1.IconColor = SystemColors.GradientInactiveCaption
@@ -190,12 +194,36 @@ Partial Class mainFont
         Label1.Text = "SALARY MANAGEMENT"' 
         ' Panel1
         ' 
-        Panel1.BackColor = Color.FromArgb(CByte(128), CByte(128), CByte(255))
+        Panel1.BackColor = Color.FromArgb(CByte(31), CByte(30), CByte(68))
+        Panel1.Controls.Add(lblTitle)
+        Panel1.Controls.Add(IconCurrentForm)
         Panel1.Dock = DockStyle.Top
         Panel1.Location = New Point(214, 0)
         Panel1.Name = "Panel1"
         Panel1.Size = New Size(586, 46)
         Panel1.TabIndex = 0
+        ' 
+        ' lblTitle
+        ' 
+        lblTitle.AutoSize = True
+        lblTitle.ForeColor = SystemColors.GradientActiveCaption
+        lblTitle.Location = New Point(42, 16)
+        lblTitle.Name = "lblTitle"
+        lblTitle.Size = New Size(40, 15)
+        lblTitle.TabIndex = 1
+        lblTitle.Text = "Home"' 
+        ' IconCurrentForm
+        ' 
+        IconCurrentForm.BackColor = Color.FromArgb(CByte(31), CByte(30), CByte(68))
+        IconCurrentForm.ForeColor = Color.MediumPurple
+        IconCurrentForm.IconChar = FontAwesome.Sharp.IconChar.House
+        IconCurrentForm.IconColor = Color.MediumPurple
+        IconCurrentForm.IconFont = FontAwesome.Sharp.IconFont.Auto
+        IconCurrentForm.Location = New Point(6, 8)
+        IconCurrentForm.Name = "IconCurrentForm"
+        IconCurrentForm.Size = New Size(32, 32)
+        IconCurrentForm.TabIndex = 0
+        IconCurrentForm.TabStop = False
         ' 
         ' panelDesktop
         ' 
@@ -221,6 +249,9 @@ Partial Class mainFont
         panelLogo.ResumeLayout(False)
         panelLogo.PerformLayout()
         CType(IconPictureBox1, ComponentModel.ISupportInitialize).EndInit()
+        Panel1.ResumeLayout(False)
+        Panel1.PerformLayout()
+        CType(IconCurrentForm, ComponentModel.ISupportInitialize).EndInit()
         ResumeLayout(False)
     End Sub
 
@@ -237,4 +268,6 @@ Partial Class mainFont
     Friend WithEvents Label2 As Label
     Friend WithEvents IconPictureBox2 As FontAwesome.Sharp.IconPictureBox
     Friend WithEvents IconButton1 As FontAwesome.Sharp.IconButton
+    Friend WithEvents lblTitle As Label
+    Friend WithEvents IconCurrentForm As FontAwesome.Sharp.IconPictureBox
 End Class

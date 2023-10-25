@@ -56,7 +56,7 @@ Partial Class createDailyForm
         Panel1.Dock = DockStyle.Top
         Panel1.Location = New Point(0, 0)
         Panel1.Name = "Panel1"
-        Panel1.Size = New Size(794, 54)
+        Panel1.Size = New Size(1315, 54)
         Panel1.TabIndex = 0
         ' 
         ' Label1
@@ -291,7 +291,7 @@ Partial Class createDailyForm
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(794, 564)
+        ClientSize = New Size(1315, 564)
         Controls.Add(IconButton1)
         Controls.Add(CheckBox7)
         Controls.Add(CheckBox8)
