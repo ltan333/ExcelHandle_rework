@@ -31,6 +31,8 @@ Public Class mainFont
             leftBorderBtn.Location = New Point(0, currentBtn.Location.Y)
             leftBorderBtn.Visible = True
             leftBorderBtn.BringToFront()
+            IconCurrentForm.IconChar = currentBtn.IconChar
+            IconCurrentForm.IconColor = customColor
 
 
         End If
@@ -38,7 +40,7 @@ Public Class mainFont
 
     Private Sub DisableButton()
         If currentBtn IsNot Nothing Then
-            currentBtn.BackColor = Color.FromArgb(128, 128, 255)
+            currentBtn.BackColor = Color.FromArgb(37, 36, 81)
             currentBtn.ForeColor = Color.Gainsboro
             currentBtn.IconColor = Color.Gainsboro
             currentBtn.TextAlign = ContentAlignment.MiddleLeft
@@ -60,20 +62,21 @@ Public Class mainFont
         panelDesktop.Tag = childForm
         childForm.BringToFront()
         childForm.Show()
+        lblTitle.Text = childForm.Text
     End Sub
 
     Private Sub btnCreate_Click(sender As Object, e As EventArgs) Handles btnCreate.Click
-        ActivateButton(sender, Color.SeaGreen)
+        ActivateButton(sender, RGBColors.color)
         OpenChildForm(New createDailyForm)
     End Sub
 
     Private Sub btnCalculate_Click(sender As Object, e As EventArgs) Handles btnCalculate.Click
-        ActivateButton(sender, Color.SeaGreen)
+        ActivateButton(sender, RGBColors.color)
         OpenChildForm(New calculateSalaryForm)
     End Sub
 
     Private Sub btnUpdate_Click(sender As Object, e As EventArgs) Handles btnUpdate.Click
-        ActivateButton(sender, Color.SeaGreen)
+        ActivateButton(sender, RGBColors.color)
         OpenChildForm(New updateUsingTemplateForm)
     End Sub
 
